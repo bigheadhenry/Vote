@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B4C39E21C534C6C00351121 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B4C39E11C534C6C00351121 /* Data.swift */; };
 		1BFCE7101C436A3000E9F97A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BFCE70F1C436A3000E9F97A /* AppDelegate.swift */; };
 		1BFCE7171C436A3000E9F97A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BFCE7161C436A3000E9F97A /* Assets.xcassets */; };
 		1BFCE71A1C436A3000E9F97A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BFCE7181C436A3000E9F97A /* LaunchScreen.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1B4C39E11C534C6C00351121 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		1BFCE70C1C436A3000E9F97A /* Vote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vote.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BFCE70F1C436A3000E9F97A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1BFCE7161C436A3000E9F97A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				1BFCE74D1C4D3E0000E9F97A /* Main.storyboard */,
 				1BFCE70F1C436A3000E9F97A /* AppDelegate.swift */,
 				1BFCE73D1C436A7C00E9F97A /* VoteViewController.swift */,
+				1B4C39E11C534C6C00351121 /* Data.swift */,
 				1BFCE7471C4B7A4500E9F97A /* WelcomeViewController.swift */,
 				1BFCE7161C436A3000E9F97A /* Assets.xcassets */,
 				1BFCE7181C436A3000E9F97A /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1BFCE7481C4B7A4500E9F97A /* WelcomeViewController.swift in Sources */,
+				1B4C39E21C534C6C00351121 /* Data.swift in Sources */,
 				1BFCE73E1C436A7C00E9F97A /* VoteViewController.swift in Sources */,
 				1BFCE7101C436A3000E9F97A /* AppDelegate.swift in Sources */,
 			);
